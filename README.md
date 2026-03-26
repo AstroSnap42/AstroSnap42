@@ -47,14 +47,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AstroSnap42&theme=dracula&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophy" />
-</div>
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
