@@ -50,11 +50,7 @@
 
 <div align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats" width="49%" />
-  <img src="./profile/pin-readme-tools-github-readme-stats.svg" alt="Pinned" width="49%" />
-</div>
-<br>
-<div align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" width="45%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="49%" />
 </div>
 
 ---
