@@ -28,7 +28,6 @@
 - 🤔 I'm exploring **distributed systems** and would love to connect with like-minded devs
 - 💬 Ask me about **JavaScript, Python, React, Node.js** — I'm happy to help!
 - 📫 How to reach me: **[astrosnap42@gmail.com](mailto:astrosnap42@gmail.com)**
-- ⚡ Fun fact: **My code runs better with coffee ☕ | I once debugged for 6 hours only to find a missing semicolon 😅**
 
 ---
 
@@ -36,13 +35,13 @@
 
 <div align="center">
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust&perline=10" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python&perline=10" alt="Languages" />
   
   <h4>Frameworks & Libraries</h4>
   <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,express,django,tailwind&perline=10" alt="Frameworks" />
   
   <h4>Databases & DevOps</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,kubernetes,aws,gcp,git,linux&perline=10" alt="DevOps & Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,kubernetes,aws,git,linux&perline=10" alt="DevOps & Databases" />
 </div>
 
 ---
